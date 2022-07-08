@@ -1,12 +1,12 @@
 
 function successfullMessage(msg) {
-    return "...:  ```" + msg + "```"
+    return "[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "...:  ```" + msg + "```"
+    return "[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "...:  ```" + msg + "```"
+    return "[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]:  ```" + msg + "```"
 }
 
 
